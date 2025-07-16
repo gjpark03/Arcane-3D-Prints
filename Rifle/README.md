@@ -1,40 +1,40 @@
 # Rifle Print
 
 ## Dimensions and Number to Print: 
-bottom_button_Ver1.0: 4mm x 18mm x 18mm [2 copies]
-bottom_inner_button: 2mm x 14mm x 14mm [2 copies]
-cylinder_connection_Ver1.0: 50mm x  40mm x 20mm
-inner_branch_button_Ver1.0: 4mm x 14mm x 14mm [2 copies]
-inner_branch_left_Ver1.0: 10mm x 8mm x 40mm 
-inner_branch_rect_Ver1.0: 6mm x 16mm x 7mm [2 copies]
-inner_branch_right_Ver1.0: 10mm x 8mm x 40mm
-large_cylinder_Ver1.0: 48mm x 48mm x 60mm
-small_cylinder_button_Ver1.0: 4mm x 14.5mm x 14.5mm [2 copies]
-small_cylinder_Ver1.0: 24mm x 24mm x 30.5mm
-top_barrel_middle_bottom_Ver1.0: 30mm x 30mm x 62mm
-top_button_Ver1.0: 3mm x 10mm x 10mm [2 copies]
-top_handle_branch_left_Ver1.0: 3mm x 90mm x 20mm
-top_handle_branch_right_Ver1.0: 3mm x 90mm x 20mm
-barrel_detail_1_Ver1.0: 5mm x 50mm x 10mm [2 copies]
-barrel_detail_2_Ver1.0: 5mm x 50mm x 10mm [2 copies]
-bottom_barrel_front_Ver1.0: 30mm x 20mm x 120mm 
-bottom_barrel_middle_Ver1.0: 30mm x 20mm x 55mm 
-bottom_barrel_top_Ver1.0: 30mm x 20mm x 18mm  
-circle_part_left_Ver1.0: 27mm x 90mm x 90mm 
-circle_part_right_Ver1.0: 27mm x 90mm x 90mm 
-large_cylinder_detail_Ver1.0: 45mm x 48mm x 5mm
-top_barrel_cap_Ver1.0: 37mm x 27mm x 3mm 
-top_barrel_front_Ver1.0: 35mm x 25mm x 150mm 
-top_barrel_long_Ver1.0: 35mm x 25mm x 240mm 
-top_barrel_middle_cap_Ver1.0: 35mm x 25mm x 6mm 
-top_button_Ver1.0: 3mm x 10mm x 10mm 
-top_barrel_long_Ver1.0: 35mm x 25mm x 205mm 
-cylinder_connection_Ver1.0: 5mm x 8mm x 24mm
-top_barrel_front_detail_1_Ver1.0: 20mm x 10mm x 140mm
-top_barrel_front_detail_2_Ver1.0: 20mm x 10mm x 140mm
-top_barrel_cylinder_Ver1.0: 15mm x 4mm x 15mm [2 Copies]
-top_barrel_mount_Ver1.0: 30mm x 15mm x 55mm 
-circle_back_Ver1.0: 50mm x 15mm x 25mm
-circle_detail_ver1.0 8mm x 5mm x 15mm [10 Copies]
-lens_rim_Ver1.0 46mm x 46mm x 6mm[3 Copies]
-lens_hinge 20mm x 15mm x 6mm [3 Copies]
+- bottom_button_Ver1.0: 4mm x 18mm x 18mm [2 copies] 
+- bottom_inner_button: 2mm x 14mm x 14mm [2 copies] 
+- cylinder_connection_Ver1.0: 50mm x  40mm x 20mm
+- inner_branch_button_Ver1.0: 4mm x 14mm x 14mm [2 copies]
+- inner_branch_left_Ver1.0: 10mm x 8mm x 40mm 
+- inner_branch_rect_Ver1.0: 6mm x 16mm x 7mm [2 copies]
+- inner_branch_right_Ver1.0: 10mm x 8mm x 40mm
+- large_cylinder_Ver1.0: 48mm x 48mm x 60mm
+- small_cylinder_button_Ver1.0: 4mm x 14.5mm x 14.5mm [2 copies]
+- small_cylinder_Ver1.0: 24mm x 24mm x 30.5mm
+- top_barrel_middle_bottom_Ver1.0: 30mm x 30mm x 62mm
+- top_button_Ver1.0: 3mm x 10mm x 10mm [2 copies]
+- top_handle_branch_left_Ver1.0: 3mm x 90mm x 20mm
+- top_handle_branch_right_Ver1.0: 3mm x 90mm x 20mm
+- barrel_detail_1_Ver1.0: 5mm x 50mm x 10mm [2 copies]
+- barrel_detail_2_Ver1.0: 5mm x 50mm x 10mm [2 copies]
+- bottom_barrel_front_Ver1.0: 30mm x 20mm x 120mm 
+- bottom_barrel_middle_Ver1.0: 30mm x 20mm x 55mm 
+- bottom_barrel_top_Ver1.0: 30mm x 20mm x 18mm  
+- circle_part_left_Ver1.0: 27mm x 90mm x 90mm 
+- circle_part_right_Ver1.0: 27mm x 90mm x 90mm 
+- large_cylinder_detail_Ver1.0: 45mm x 48mm x 5mm
+- top_barrel_cap_Ver1.0: 37mm x 27mm x 3mm 
+- top_barrel_front_Ver1.0: 35mm x 25mm x 150mm 
+- top_barrel_long_Ver1.0: 35mm x 25mm x 240mm 
+- top_barrel_middle_cap_Ver1.0: 35mm x 25mm x 6mm 
+- top_button_Ver1.0: 3mm x 10mm x 10mm 
+- top_barrel_long_Ver1.0: 35mm x 25mm x 205mm 
+- cylinder_connection_Ver1.0: 5mm x 8mm x 24mm
+- top_barrel_front_detail_1_Ver1.0: 20mm x 10mm x 140mm
+- top_barrel_front_detail_2_Ver1.0: 20mm x 10mm x 140mm
+- top_barrel_cylinder_Ver1.0: 15mm x 4mm x 15mm [2 Copies]
+- top_barrel_mount_Ver1.0: 30mm x 15mm x 55mm 
+- circle_back_Ver1.0: 50mm x 15mm x 25mm
+- circle_detail_ver1.0 8mm x 5mm x 15mm [10 Copies]
+- lens_rim_Ver1.0 46mm x 46mm x 6mm[3 Copies]
+- lens_hinge 20mm x 15mm x 6mm [3 Copies]
